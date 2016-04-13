@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/unirest/unirest-java-1.4.9.jar"/>
+	<classpathentry kind="lib" path="E:/ac-unitee-dist-2.1r2/ac-unitee/lib/ac-unitee-2.1r2.jar"/>
+	<classpathentry kind="lib" path="E:/ac-unitee-dist-2.1r2/ac-unitee/dependencies/jars/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/ac-unitee-dist-2.1r2/ac-unitee/dependencies/jars/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/ac-unitee-dist-2.1r2/ac-unitee/dependencies/jars/commons-validator-1.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/ac-unitee-dist-2.1r2/ac-unitee/dependencies/jars/ini4j-0.5.4.jar"/>
+	<classpathentry kind="lib" path="E:/ac-unitee-dist-2.1r2/ac-unitee/dependencies/jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/ac-unitee-dist-2.1r2/ac-unitee/dependencies/jars/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="E:/ac-unitee-dist-2.1r2/ac-unitee/dependencies/jars/commons-cli-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/unirest/dependencies/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/unirest/dependencies/httpasyncclient-4.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/unirest/dependencies/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="E:/unirest/dependencies/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="E:/unirest/dependencies/httpcore-nio-4.4.3.jar"/>
+	<classpathentry kind="lib" path="E:/unirest/dependencies/httpmime-4.3.6.jar"/>
+	<classpathentry kind="lib" path="E:/unirest/dependencies/json-20140107.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
