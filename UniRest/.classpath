@@ -18,5 +18,6 @@
 	<classpathentry kind="lib" path="E:/unirest/dependencies/httpcore-nio-4.4.3.jar"/>
 	<classpathentry kind="lib" path="E:/unirest/dependencies/httpmime-4.3.6.jar"/>
 	<classpathentry kind="lib" path="E:/unirest/dependencies/json-20140107.jar"/>
+	<classpathentry kind="lib" path="E:/unirest/dependencies/commons-codec-1.10.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
